@@ -1,19 +1,70 @@
-# MyoCharm
-Have you ever had any foot or arm pain? Wondering if it is something serious? Look no further! With MyoCharm you can easily check whether you are healthy or have diseases like myopathy and neuropathy.
+# Getting Started with Create React App
 
-## Inspiration
-We were inspired to do this project because of how many people have neuropathy and myopathy which are muscular diseases without even knowing. We saw this as an opportunity to help the neuropathy and myopathy community have a more successful future.
-## What it does
-Myocharm has both a hardware and software component where the hardware can measure the nerve signals and record it, to be used and interpreted to figure out if someone is likely to have myopathy or neuropathy.
-## How we built it
-For Myocharm we used arduino parts with three electrodes and record them as csv files. We then converted them to wav files which are audio files, then into a spectrogram which is a png picture of a graph. We used this spectrogram to create and train a machine learning model in python using tenserflow and other libraries which can predict with a 97% accuracy whether or not someone have myopathy, neurapathy or neither. We then connected all of this to a website using Flask. The website was made with React, which includes html, css, js, and xml. 
-## Challenges we ran into
-One of our biggest challenges was implementing flask to connect the backend python machine learning model to the react front-end website. This was especially difficult as none of us were experienced with Flask at all. As well as originally creating the model was difficult with tensorflow and keras. We were also challenged with the front-end to make it look good and perform the funcitons that it needs to perform.
-## Accomplishments that we're proud of
-Our biggest accomplishments were creating the machine learning model but especially connecting it to the front-end with flask. As well as creating a a good looking website that does it's job effectively. This project was the biggest project our team has created and we pushed our limits to its bounds. 
-## What we learned
-How to create a machine learning model using tensorflow and keras, then implementing it using Flask. Creating a website using React, js, html, css, and xml.
-## What's next for MyoCharm
-Our next steps will be to create a more accurate model, with a minimum of 99% accuracy. Along with that, we plan to add more muscular diseases to train out model with so that our project can be used for more than just myopathy and neuropathy. Creating a website with multiple tabs is a big next step for us as well.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Made by **Baron, Rushabh, Jerry, and Fayez**
+## Available Scripts
+
+In the project directory, you can run:
+
+### `npm start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
+
+### `npm test`
+
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+
+### `npm run build`
+
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
+
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `npm run eject`
+
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
