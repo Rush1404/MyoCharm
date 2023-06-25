@@ -2,7 +2,7 @@
 Have you ever had any foot or arm pain? Wondering if it is something serious? Look no further! With MyoCharm you can easily check whether you are healthy or have diseases like myopathy and neuropathy.
 
 ## Inspiration
-We were inspired to do this project because of how many have neuropathy and myopathy which are muscular diseases without even knowing. We saw this as an opportunity to help the neuropathy and myopathy community have a more successful future.
+We were inspired to do this project because of how many people have neuropathy and myopathy which are muscular diseases without even knowing. We saw this as an opportunity to help the neuropathy and myopathy community have a more successful future.
 ## What it does
 Myocharm has both a hardware and software component where the hardware can measure the nerve signals and record it, to be used and interpreted to figure out someone is likely to have myopathy or neuropathy.
 ## How we built it
