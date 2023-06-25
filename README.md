@@ -4,7 +4,7 @@ Have you ever had any foot or arm pain? Wondering if it is something serious? Lo
 ## Inspiration
 We were inspired to do this project because of how many people have neuropathy and myopathy which are muscular diseases without even knowing. We saw this as an opportunity to help the neuropathy and myopathy community have a more successful future.
 ## What it does
-Myocharm has both a hardware and software component where the hardware can measure the nerve signals and record it, to be used and interpreted to figure out someone is likely to have myopathy or neuropathy.
+Myocharm has both a hardware and software component where the hardware can measure the nerve signals and record it, to be used and interpreted to figure out if someone is likely to have myopathy or neuropathy.
 ## How we built it
 For Myocharm we used arduino parts with three electrodes and record them as csv files. We then converted them to wav files which are audio files, then into a spectrogram which is a png picture of a graph. We used this spectrogram to create and train a machine learning model in python using tenserflow and other libraries which can predict with a 97% accuracy whether or not someone have myopathy, neurapathy or neither. We then connected all of this to a website using Flask. The website was made with React, which includes html, css, js, and xml. 
 ## Challenges we ran into
