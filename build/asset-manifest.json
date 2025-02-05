@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8eb0e93b.css",
+    "main.js": "/static/js/main.b43e1a3e.js",
+    "static/media/blog01.png": "/static/media/blog01.cefc0932eae0d33a0342.png",
+    "static/media/MyoCharm_DL_Model.png": "/static/media/MyoCharm_DL_Model.6312032b5b1ee462d12e.png",
+    "static/media/blog03.png": "/static/media/blog03.d922323861096f25274f.png",
+    "static/media/blog04.png": "/static/media/blog04.742c1357e7b6c11078e6.png",
+    "static/media/blog05.png": "/static/media/blog05.bfaa1c1e3851158e0e1f.png",
+    "static/media/blog02.png": "/static/media/blog02.ab0eb367561796e91532.png",
+    "static/media/electromyograms.png": "/static/media/electromyograms.afc1e01951b069d992e1.png",
+    "static/media/possibility.png": "/static/media/possibility.def59674d508a3267542.png",
+    "static/media/jerfay.png": "/static/media/jerfay.0227afa6f5830108219f.png",
+    "static/media/product6.png": "/static/media/product6.9fa40155c8a6794e3363.png",
+    "static/media/product5.png": "/static/media/product5.55472bad05f452ae49d8.png",
+    "static/media/Physician_Verified_Treatment.png": "/static/media/Physician_Verified_Treatment.0e3854ef673ffb38fd0f.png",
+    "static/media/product3.png": "/static/media/product3.303cf2fdf8bff67f1566.png",
+    "static/media/product2.png": "/static/media/product2.9bb536f20bc1647c984a.png",
+    "static/media/product1.png": "/static/media/product1.637ff641c90161f3a409.png",
+    "static/media/product4.png": "/static/media/product4.e57f213bfe0910d0e33c.png",
+    "static/media/logo.png": "/static/media/logo.52e187f67738279b43d0.png",
+    "static/media/people.png": "/static/media/people.5cd2d6fbcd48bd63f106.png",
+    "index.html": "/index.html",
+    "main.8eb0e93b.css.map": "/static/css/main.8eb0e93b.css.map",
+    "main.b43e1a3e.js.map": "/static/js/main.b43e1a3e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8eb0e93b.css",
+    "static/js/main.b43e1a3e.js"
+  ]
+}

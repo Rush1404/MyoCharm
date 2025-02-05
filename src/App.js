@@ -15,12 +15,12 @@ const App = () => (
       </div>
       <MyoCharm />
       <Possibility />
-      <CTA />
-      <Features />
       <div className='gradient__bg'>
         <Store />
       </div>
       <Blog />
+      <CTA />
+      <Features />
       <Footer />
     </div>
   </div> 

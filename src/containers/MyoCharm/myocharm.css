@@ -54,7 +54,7 @@
 }
 
 .myoCharm-heading h1 {
-    font-size: 34px;
+    font-size: 30px;
     line-height: 45px;
     font-weight: 800;
     font-family: var(--font-family);
@@ -96,7 +96,8 @@
 .myoCharm-electromyograms img{
     width: 500px;
     margin-left: 18%;
-    margin-top:-5.8% ;
+    margin-top:-5.8%;
+    height: 500px;
 }
 
 .MyoCharm_DL_Model img{

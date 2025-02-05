@@ -23,19 +23,18 @@
 }
 
 .store-heading h1{
-    background: white;
     background-size: 50px;
     text-align: center;
     border-radius: 32px;
     width: 500px;
-    margin-left: 34%;
-    color: var(--color-subtext);
+    margin-left: 30%;
+    color: white;
 }
 
 
 
 .store-container_product-image img {
-    height: 400px;
+    height: 300px;
 }
 
 .store-container_groupA {
@@ -66,7 +65,7 @@
     }
 
     .store-container_groupA .store-container_product-image {
-        height: 250px;
+        height: 20px;
     }
 }
 

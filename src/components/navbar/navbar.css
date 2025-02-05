@@ -49,7 +49,7 @@
     font-family: var(--font-family);
     /* makes the font bolder */
     font-weight: 500;
-    font-size: 18px;
+    font-size: 15px;
     line-height: 25px;
     /* capitalizes the text */
     text-transform: capitalize;
@@ -87,8 +87,8 @@
     left: 1153px;
     top: 55px;
     font-weight: 500;
-    font-size: 18px;
-    line-height: 25px;
+    font-size: 15px;
+    line-height: 20px;
     border-radius: 5px;
     /*fixes the border and the outline on the box for the sign-in button */
     border: 0;
